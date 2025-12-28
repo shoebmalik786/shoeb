@@ -1,0 +1,37 @@
+Privacy Policy for MTD
+Effective Date: December 28, 2025
+
+1. Data We Collect Our application does not collect or store any personal information from your Facebook account. We do not store your name, email, or friend list.
+
+2. How We Use Data We only use the Access Tokens you provide to perform the specific task of uploading video files to your Facebook Page. Once the upload is complete, our script does not perform any other background actions.
+
+3. Third-Party Sharing We do not sell, trade, or share your information with third parties. All data transmission happens directly between your local machine and Meta's secure servers.
+
+4. Data Retention We do not retain any of your video content or tokens on our own servers.
+
+5. Contact Us If you have questions about this policy, please contact us at [Your Email Address].
+
+2. Final Dashboard Completion
+Now that you have both links, follow these final steps to go Live:
+
+Go to App Settings > Basic in the Meta Developer Portal.
+
+Privacy Policy URL: Paste your https://yourdomain.com/privacy-policy link.
+
+User Data Deletion: Ensure your Instructions URL is already there.
+
+App Icon: Upload a simple 512x512 image (Meta often requires this to go live).
+
+Category: Select "Business and Pages" or "Utility."
+
+Switch to Live: At the very top of the screen, toggle the switch from Development to Live.
+
+3. Verification Diagram
+Once these are saved, your "Never-Expiring" token will be truly stable. If the app stays in "Development," tokens often expire or stop working for no reason after a few weeks.
+
+Summary of your "One-Click" System
+Code: Uses requests to send your local VDO.mp4 to Meta.
+
+Token: A permanent "Page Token" with pages_manage_posts.
+
+Legal: A simple Privacy and Deletion page to satisfy Meta's audit.

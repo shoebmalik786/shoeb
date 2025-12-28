@@ -1,1 +1,40 @@
+Data Deletion Instructions
+At MTD, we respect your privacy and do not store your personal Facebook data or login credentials on our servers. Our application only uses authorized tokens to perform actions you request (like uploading videos).
 
+If you wish to remove our application's access or request that any data associated with your account be deleted, please follow the steps below:
+
+How to Remove the App from Facebook
+Go to your Facebook account's Settings & Privacy > Settings.
+
+Click on Apps and Websites in the left-hand menu.
+
+Locate MTD and click Remove.
+
+To remove all previous posts made by the app, check the box that says "Delete posts, videos or events MTD posted on your timeline" before confirming.
+
+Manual Deletion Requests
+If you have additional concerns or wish to request a manual deletion of any logs we may have, please contact us:
+
+Email: [Your Support Email]
+
+Timeline: We will process and confirm your request within 7 business days.
+
+2. Final Meta Dashboard Setup
+Now, tell Meta where this page is:
+
+Log in to the Meta Developer Portal.
+
+Go to App Settings > Basic.
+
+Find the User Data Deletion section.
+
+In the dropdown, select Data Deletion Instructions URL.
+
+Paste your link: https://github.com/shoebmalik786/shoeb/edit/main/Data-Deletion.
+
+Click Save Changes.
+
+3. Move to "Live" Mode
+Once you have saved the Privacy Policy URL and the Data Deletion URL, look at the top of your dashboard. Switch the App Mode from "Development" to "Live".
+
+Important: Your app must be in "Live" mode for the "Never-Expiring" tokens to remain valid long-term.
